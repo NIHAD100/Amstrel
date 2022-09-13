@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.img-fluid
+{
+    width: 105px;
+}
+.home-tag:hover
+{
+    background-color: aquamarine;
+}
